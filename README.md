@@ -1,8 +1,8 @@
-# Chrome Extension TypeScript Starter
+# Hasha
 
 ![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg)
 
-Chrome Extension, TypeScript and Visual Studio Code
+Chrome Extension for downloads
 
 ## Prerequisites
 
@@ -16,14 +16,6 @@ Chrome Extension, TypeScript and Visual Studio Code
 
 * TypeScript
 * Webpack
-* React
-* Jest
-* Example Code
-    * Chrome Storage
-    * Options Version 2
-    * content script
-    * count up badge number
-    * background
 
 ## Project Structure
 
